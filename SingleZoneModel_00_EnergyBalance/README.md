@@ -3,8 +3,8 @@ This example file is used in the Honeybee Wiki on Single Zone Modelling. A step-
 
 This file has been submitted by [alexandermatthias](https://github.com/alexandermatthias)
 
-[Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=alexandermatthias&fork=hydra&id=1_EnergyBalance_HouseSingleZone_guide)
+[Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=alexandermatthias&fork=hydra&id=SingleZoneModel_00_EnergyBalance)
 ### Tags 
 hbwiki, Grasshopper
 ### Thumbnail 
-![Screenshot](https://raw.githubusercontent.com/alexandermatthias/hydra/master/1_EnergyBalance_HouseSingleZone_guide/thumbnail.png)
+![Screenshot](https://raw.githubusercontent.com/alexandermatthias/hydra/master/SingleZoneModel_00_EnergyBalance/thumbnail.png)
