@@ -3,8 +3,8 @@ This example file is used in the Honeybee Wiki on Single Zone Modelling. A step-
 
 This file has been submitted by [alexandermatthias](https://github.com/alexandermatthias)
 
-[Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=alexandermatthias&fork=hydra&id=AdvancedEnergyModeling_00_Schedules)
+[Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=alexandermatthias&fork=hydra&id=AdvancedEnergyModeling_00_ScheduleTypes)
 ### Tags 
 hbwiki, Grasshopper
 ### Thumbnail 
-![Screenshot](https://raw.githubusercontent.com/alexandermatthias/hydra/master/AdvancedEnergyModeling_00_Schedules/thumbnail.png)
+![Screenshot](https://raw.githubusercontent.com/alexandermatthias/hydra/master/AdvancedEnergyModeling_00_ScheduleTypes/thumbnail.png)
